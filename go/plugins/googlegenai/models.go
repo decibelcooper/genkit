@@ -22,7 +22,7 @@ const (
 	gemini20ProExp0205           = "gemini-2.0-pro-exp-02-05"
 	gemini20FlashThinkingExp0121 = "gemini-2.0-flash-thinking-exp-01-21"
 
-	gemini25ProExp0305 = "gemini-2.5-pro-exp-03-25"
+	gemini25ProExp0305 = "gemini-2.5-pro-preview-03-25"
 )
 
 var (
